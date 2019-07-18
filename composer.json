@@ -1,0 +1,13 @@
+{
+    "name": "roadmin/optimize",
+    "authors": [
+        {
+            "name": "Josh",
+            "email": "josh@redolive.com"
+        }
+    ],
+    "require": {
+		"tinify/tinify": "*",
+        "vlucas/phpdotenv": "^3.4"
+	}
+}
